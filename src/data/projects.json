@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Todolist",
+    "imageSrc": "projects/project1.png",
+    "description": "A website helps schools manage their students’ information, scores and class",
+    "skills": [
+      "React",
+      "SCSS",
+      "Drag and Drop"
+    ],
+    "demo": "https://todo-list-chi-lyart.vercel.app",
+    "source": "https://github.com/Linhhuynhnhut/TodoList"
+  },
+  {
+    "title": "LT movies",
+    "imageSrc": "projects/project2.png",
+    "description": "A website allow users to view list of movies, add to their favourites, create reviews,…",
+    "skills": [
+      "React",
+      "SCSS",
+      "Axios",
+      "React-Router",
+      "Swiper"
+    ],
+    "demo": "https://latmovie-linhhuynhnhut.vercel.app",
+    "source": "https://github.com/Linhhuynhnhut/latmovie"
+  },
+  {
+    "title": "Weather Forecast",
+    "imageSrc": "projects/project3.png",
+    "description": "A website provides users with weekly updates on weather forecasts on over the world.",
+    "skills": [
+      "React",
+      "SCSS",
+      "TaiwindCSS",
+      "Axios"
+    ],
+    "demo": "https://weather-forecast-gamma-one.vercel.app",
+    "source": "https://github.com/Linhhuynhnhut/WeatherForecast"
+  }
+]

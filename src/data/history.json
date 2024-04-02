@@ -1,0 +1,14 @@
+[
+  {
+    "role": "Front-end Developer",
+    "organisation": "Deliveree On-Demand Logistics",
+    "startDate": "September, 2023",
+    "endDate": "November, 2023",
+    "experiences": [
+      "Using Retool to build a website.",
+      "Fix bugs and improve UI/UX",
+      "Converting 3 modules from a monolithic admin app."
+    ],
+    "imageSrc": "history/Deliveree.png"
+  }
+]
